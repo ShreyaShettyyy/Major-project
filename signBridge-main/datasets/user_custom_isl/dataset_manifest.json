@@ -1,0 +1,865 @@
+{
+  "version": "2.0",
+  "last_updated": "2026-10-30T01:31:21Z",
+  "counts": {
+    "alphabet": 32,
+    "numbers": 14,
+    "railway_words": 82
+  },
+  "items": [
+    {
+      "category": "alphabet",
+      "label": "A",
+      "description": "Dominant index touches tip of non-dominant thumb.",
+      "clip_count": 4,
+      "clips": [
+        "A_01.mp4",
+        "A_02.mp4",
+        "A_03.mp4",
+        "A_04.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "B",
+      "description": "Dominant index & thumb touch non-dominant index & thumb.",
+      "clip_count": 1,
+      "clips": [
+        "B_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "C",
+      "description": "Dominant hand forms curved 'C' shape in front of chest.",
+      "clip_count": 2,
+      "clips": [
+        "C_01.mp4",
+        "C_02.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "D",
+      "description": "Non-dominant index vertical; dominant index/thumb form 'C' touching it.",
+      "clip_count": 1,
+      "clips": [
+        "D_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "E",
+      "description": "Dominant index touches tip of non-dominant index finger.",
+      "clip_count": 1,
+      "clips": [
+        "E_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "F",
+      "description": "Dominant 2 fingers (index, middle) crossed over non-dominant 2 fingers.",
+      "clip_count": 1,
+      "clips": [
+        "F_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "G",
+      "description": "Both hands in fists, dominant fist resting on top of non-dominant fist.",
+      "clip_count": 1,
+      "clips": [
+        "G_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "H",
+      "description": "Non-dominant palm flat; dominant flat palm slides across it.",
+      "clip_count": 1,
+      "clips": [
+        "H_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "I",
+      "description": "Dominant index touches tip of non-dominant middle finger.",
+      "clip_count": 1,
+      "clips": [
+        "I_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "J",
+      "description": "Dominant index touches middle fingertip and traces 'J' downwards.",
+      "clip_count": 2,
+      "clips": [
+        "J_01.mp4",
+        "J_02.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "K",
+      "description": "Non-dominant index vertical; dominant hooked index rests at joint.",
+      "clip_count": 1,
+      "clips": [
+        "K_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "L",
+      "description": "Dominant index & thumb form an 'L' shape.",
+      "clip_count": 1,
+      "clips": [
+        "L_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "M",
+      "description": "Dominant 3 fingers (index, middle, ring) rest on non-dominant palm.",
+      "clip_count": 1,
+      "clips": [
+        "M_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "N",
+      "description": "Dominant 2 fingers (index, middle) rest on non-dominant palm.",
+      "clip_count": 1,
+      "clips": [
+        "N_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "O",
+      "description": "Dominant index touches tip of non-dominant ring finger.",
+      "clip_count": 1,
+      "clips": [
+        "O_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "P",
+      "description": "Non-dominant index vertical; dominant circle touches upper tip.",
+      "clip_count": 1,
+      "clips": [
+        "P_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "Q",
+      "description": "Non-dominant index/thumb circle; dominant index hooks into base.",
+      "clip_count": 2,
+      "clips": [
+        "Q_01.mp4",
+        "Q_02.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "R",
+      "description": "Dominant hooked index finger hooks over non-dominant flat palm.",
+      "clip_count": 1,
+      "clips": [
+        "R_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "S",
+      "description": "BOTH PINKY FINGERS HOOK TOGETHER, palms facing each other.",
+      "clip_count": 1,
+      "clips": [
+        "S_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "T",
+      "description": "Non-dominant index vertical; dominant index rests across top (forming 'T').",
+      "clip_count": 1,
+      "clips": [
+        "T_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "U",
+      "description": "Dominant index touches tip of non-dominant little finger.",
+      "clip_count": 1,
+      "clips": [
+        "U_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "V",
+      "description": "Dominant index & middle form 'V' resting on non-dominant palm.",
+      "clip_count": 1,
+      "clips": [
+        "V_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "W",
+      "description": "Both hands open, fingers spread, forming 'W' peaks together.",
+      "clip_count": 1,
+      "clips": [
+        "W_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "X",
+      "description": "Both index fingers crossed over each other like an 'X'.",
+      "clip_count": 1,
+      "clips": [
+        "X_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "Y",
+      "description": "Dominant index rests in cleft between non-dominant thumb & index.",
+      "clip_count": 1,
+      "clips": [
+        "Y_01.mp4"
+      ]
+    },
+    {
+      "category": "alphabet",
+      "label": "Z",
+      "description": "Dominant index finger traces 'Z' in the air or on palm.",
+      "clip_count": 1,
+      "clips": [
+        "Z_01.mp4"
+      ]
+    },
+    {
+      "category": "numbers",
+      "label": "0",
+      "description": "Fingers curled into 'O' shape, tips touching thumb.",
+      "clip_count": 1,
+      "clips": [
+        "0_01.mp4"
+      ]
+    },
+    {
+      "category": "numbers",
+      "label": "1",
+      "description": "Index finger extended straight up, palm facing outward.",
+      "clip_count": 1,
+      "clips": [
+        "1_01.mp4"
+      ]
+    },
+    {
+      "category": "numbers",
+      "label": "2",
+      "description": "Index and middle fingers extended in 'V' shape.",
+      "clip_count": 1,
+      "clips": [
+        "2_01.mp4"
+      ]
+    },
+    {
+      "category": "numbers",
+      "label": "3",
+      "description": "Index, middle, and ring fingers extended up.",
+      "clip_count": 1,
+      "clips": [
+        "3_01.mp4"
+      ]
+    },
+    {
+      "category": "numbers",
+      "label": "4",
+      "description": "Four fingers extended up, thumb folded across palm.",
+      "clip_count": 1,
+      "clips": [
+        "4_01.mp4"
+      ]
+    },
+    {
+      "category": "numbers",
+      "label": "5",
+      "description": "Open hand with all five fingers spread.",
+      "clip_count": 1,
+      "clips": [
+        "5_01.mp4"
+      ]
+    },
+    {
+      "category": "numbers",
+      "label": "6",
+      "description": "Non-dominant open 5 fingers; dominant index points to it.",
+      "clip_count": 2,
+      "clips": [
+        "6_01.mp4",
+        "6_02.mp4"
+      ]
+    },
+    {
+      "category": "numbers",
+      "label": "7",
+      "description": "Non-dominant 5 fingers; dominant 2 fingers.",
+      "clip_count": 2,
+      "clips": [
+        "7_01.mp4",
+        "7_02.mp4"
+      ]
+    },
+    {
+      "category": "numbers",
+      "label": "8",
+      "description": "Non-dominant 5 fingers; dominant 3 fingers.",
+      "clip_count": 2,
+      "clips": [
+        "8_01.mp4",
+        "8_02.mp4"
+      ]
+    },
+    {
+      "category": "numbers",
+      "label": "9",
+      "description": "Non-dominant 5 fingers; dominant 4 fingers.",
+      "clip_count": 2,
+      "clips": [
+        "9_01.mp4",
+        "9_02.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "APPROACHING",
+      "description": "",
+      "clip_count": 2,
+      "clips": [
+        "APPROACHING_01.mp4",
+        "APPROACHING_02.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "ARRIVAL",
+      "description": "",
+      "clip_count": 4,
+      "clips": [
+        "ARRIVAL_01.mp4",
+        "ARRIVAL_02.mp4",
+        "ARRIVAL_03.mp4",
+        "ARRIVAL_04.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "ARRIVE",
+      "description": "Dominant hand moves into flat non-dominant palm.",
+      "clip_count": 0,
+      "clips": []
+    },
+    {
+      "category": "railway_words",
+      "label": "ARRIVING",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "ARRIVING_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "ATTENTION",
+      "description": "Both open hands at ear level, moving forward and inward.",
+      "clip_count": 2,
+      "clips": [
+        "ATTENTION_01.mp4",
+        "ATTENTION_02.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "BLACK",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "BLACK_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "BLUE",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "BLUE_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "BOGIE",
+      "description": "",
+      "clip_count": 2,
+      "clips": [
+        "BOGIE_01.mp4",
+        "BOGIE_02.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "BOOKING",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "BOOKING_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "BROWN",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "BROWN_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "CAUTION",
+      "description": "",
+      "clip_count": 0,
+      "clips": []
+    },
+    {
+      "category": "railway_words",
+      "label": "CHILD",
+      "description": "Flat open hand facing down, bouncing gently at low child height.",
+      "clip_count": 0,
+      "clips": []
+    },
+    {
+      "category": "railway_words",
+      "label": "COACH",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "COACH_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "COMING",
+      "description": "",
+      "clip_count": 3,
+      "clips": [
+        "COMING_01.mp4",
+        "COMING_02.mp4",
+        "COMING_03.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "COMPARTMENT",
+      "description": "",
+      "clip_count": 3,
+      "clips": [
+        "COMPARTMENT_01.mp4",
+        "COMPARTMENT_02.mp4",
+        "COMPARTMENT_03.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "DELAY",
+      "description": "Index finger taps wrist watch, followed by pause gesture.",
+      "clip_count": 0,
+      "clips": []
+    },
+    {
+      "category": "railway_words",
+      "label": "DEPART",
+      "description": "Dominant hand glides smoothly away from non-dominant palm.",
+      "clip_count": 0,
+      "clips": []
+    },
+    {
+      "category": "railway_words",
+      "label": "DEPARTURE",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "DEPARTURE_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "EARLY",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "EARLY_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "EMERGENCY",
+      "description": "",
+      "clip_count": 0,
+      "clips": []
+    },
+    {
+      "category": "railway_words",
+      "label": "FAST",
+      "description": "",
+      "clip_count": 3,
+      "clips": [
+        "FAST_01.mp4",
+        "FAST_02.mp4",
+        "FAST_03.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "FOUND",
+      "description": "Open hand moving forward, fingers closing swiftly as if grasping.",
+      "clip_count": 0,
+      "clips": []
+    },
+    {
+      "category": "railway_words",
+      "label": "GOING",
+      "description": "",
+      "clip_count": 3,
+      "clips": [
+        "GOING_01.mp4",
+        "GOING_02.mp4",
+        "GOING_03.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "GOODAFTERNOON",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "GOODAFTERNOON_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "GOODEVENING",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "GOODEVENING_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "GOODMORNING",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "GOODMORNING_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "GREEN",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "GREEN_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "HALTING",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "HALTING_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "INDIGO",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "INDIGO_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "LATE",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "LATE_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "LEAVING",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "LEAVING_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "LIVE_TEST",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "LIVE_TEST_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "NUMBER",
+      "description": "",
+      "clip_count": 8,
+      "clips": [
+        "NUMBER_01.mp4",
+        "NUMBER_02.mp4",
+        "NUMBER_03.mp4",
+        "NUMBER_04.mp4",
+        "NUMBER_05.mp4",
+        "NUMBER_06.mp4",
+        "NUMBER_07.mp4",
+        "NUMBER_08.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "OFFICE",
+      "description": "Hands form 'O' or 'B' shapes outlining room walls.",
+      "clip_count": 0,
+      "clips": []
+    },
+    {
+      "category": "railway_words",
+      "label": "PARENTS",
+      "description": "Touch chin (Mother) then touch forehead (Father).",
+      "clip_count": 0,
+      "clips": []
+    },
+    {
+      "category": "railway_words",
+      "label": "PASSENGER",
+      "description": "",
+      "clip_count": 3,
+      "clips": [
+        "PASSENGER_01.mp4",
+        "PASSENGER_02.mp4",
+        "PASSENGER_03.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "PINK",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "PINK_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "PLATFORM",
+      "description": "Flat non-dominant palm down; dominant hand indicates level/number.",
+      "clip_count": 3,
+      "clips": [
+        "PLATFORM_01.mp4",
+        "PLATFORM_02.mp4",
+        "PLATFORM_03.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "PLEASE",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "PLEASE_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "POLICE",
+      "description": "Index & thumb form 'C' shape near collar/shoulder badge.",
+      "clip_count": 2,
+      "clips": [
+        "POLICE_01.mp4",
+        "POLICE_02.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "RAILWAY STATION",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "RAILWAY STATION_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "RAJDHANI",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "RAJDHANI_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "ROUND",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "ROUND_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "SAFE",
+      "description": "Both hands crossed in fists over chest, moving out to open palms.",
+      "clip_count": 0,
+      "clips": []
+    },
+    {
+      "category": "railway_words",
+      "label": "SEAT",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "SEAT_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "SLOW",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "SLOW_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "STARTING",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "STARTING_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "STOP",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "STOP_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "STOPPING",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "STOPPING_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "TEST",
+      "description": "",
+      "clip_count": 2,
+      "clips": [
+        "TEST_01.mp4",
+        "TEST_02.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "TICKET",
+      "description": "Curved fingers stamp flat non-dominant palm like a ticket punch.",
+      "clip_count": 4,
+      "clips": [
+        "TICKET_01.mp4",
+        "TICKET_02.mp4",
+        "TICKET_03.mp4",
+        "TICKET_04.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "TRACK",
+      "description": "",
+      "clip_count": 2,
+      "clips": [
+        "TRACK_01.mp4",
+        "TRACK_02.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "TRAIN",
+      "description": "Both hands with index/middle extended, dominant gliding along tracks.",
+      "clip_count": 3,
+      "clips": [
+        "TRAIN_01.mp4",
+        "TRAIN_02.mp4",
+        "TRAIN_03.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "TRAVEL",
+      "description": "",
+      "clip_count": 2,
+      "clips": [
+        "TRAVEL_01.mp4",
+        "TRAVEL_02.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "VANDEBHARAT",
+      "description": "",
+      "clip_count": 1,
+      "clips": [
+        "VANDEBHARAT_01.mp4"
+      ]
+    },
+    {
+      "category": "railway_words",
+      "label": "VIOLET",
+      "description": "",
+      "clip_count": 3,
+      "clips": [
+        "VIOLET_01.mp4",
+        "VIOLET_02.mp4",
+        "VIOLET_03.mp4"
+      ]
+    }
+  ]
+}

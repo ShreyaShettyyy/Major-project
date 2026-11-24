@@ -1,0 +1,7 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/signBridge-main/backend",
+    "${workspaceFolder}/signBridge-main/scripts",
+    "${workspaceFolder}/signBridge-main"
+  ]
+}

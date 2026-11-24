@@ -1,0 +1,9 @@
+{
+  "extraPaths": [
+    "signBridge-main/backend",
+    "signBridge-main/scripts",
+    "signBridge-main",
+    "backend",
+    "scripts"
+  ]
+}
